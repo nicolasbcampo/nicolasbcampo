@@ -1,5 +1,5 @@
 ### Nicolás Balado Campo 👾
-Hi! I'm a junior web developer form Spain who wants to expand his knowledge working and exploring day by day! 🤓 <br>
+Hi! I'm a junior mobile and web developer form Spain who wants to expand his knowledge working and exploring day by day! 🤓 <br>
 <br>
 I just created this GitHub account to upload my first projects and collaborate with other people in order to get new skills.
 If you're reading this, I'll be probably working on my next project (or making music... 🎶). 
